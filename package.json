@@ -1,0 +1,11 @@
+{
+  "name": "movie_ql",
+  "version": "1.0.0",
+  "description": "learn Graphql for backend",
+  "main": "index.js",
+  "repository": "https://github.com/kimhan0421/learn_GraphQL_movie",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
